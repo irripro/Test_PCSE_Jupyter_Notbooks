@@ -1,5 +1,7 @@
 Comparison of crop foliar index under PCSE/LINTUL irrigation and fertilization conditions
+
 PCSE/LINTUL 灌溉、施肥条件下作物叶面指数对比
+
 This Jupyter Notebook program will show how to run PCSE/LINTUL to realize the comparison of foliar index during fertigation and crop growth under natural conditions.
 
 本Jupyter Notebook 程序将展示如何运行 PCSE/LINTUL 实现灌溉施肥及自然条件下作物生长时的叶面指数对比。
@@ -18,11 +20,13 @@ Several packages need to be installed for running PCSE/WOFOST:
 运行PCSE/WOFOST需要安装几个软件包:
 
 1.	PCSE and its dependencies. See the [PCSE user guide] for more information;
-  2. The `pandas` module for processing and storing WOFOST output;
-  3. The `matplotlib` module for plotting results
+2. The `pandas` module for processing and storing WOFOST output;
+3. The `matplotlib` module for plotting results
   
    1.` PCSE '及其依赖关系。有关更多信息，请参见 [PCSE user guide]《PCSE用户指南》；
+   
    2.`pandas` 进程和储存 WOFOST 的输出；
+   
    3.`matplotlib`用于生成图表。
 
 
@@ -31,4 +35,5 @@ Finally, you need a working internet connection.
 最后，你需要一个有效的互联网连接。
 
 *You will see that after using LINTUL3 model, the difference between irrigation and fertilization that tried to be displayed by Panda did not appear!  !  !
+
 *你将会看到采用LINTUL3模型后，试图用 Panda 显示的灌溉、施肥的不同并没有出现！！！
