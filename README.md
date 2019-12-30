@@ -1,4 +1,4 @@
-Comparison of crop foliar index under PCSE/LINTUL irrigation and fertilization conditions
+Comparison of crop LAI under different natural, irrigation and fertilization conditions by PCSE/LINTUL
 
 PCSE/LINTUL 灌溉、施肥条件下作物叶面指数对比
 
