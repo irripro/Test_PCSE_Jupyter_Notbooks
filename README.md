@@ -2,9 +2,10 @@ Comparison of crop foliar index under PCSE/LINTUL irrigation and fertilization c
 
 PCSE/LINTUL 灌溉、施肥条件下作物叶面指数对比
 
-This Jupyter Notebook program will show how to run PCSE/LINTUL to realize the comparison of foliar index during fertigation and crop growth under natural conditions.
+This Jupyter Notebook program will show how to run PCSE/LINTUL to realize the comparison of LAI index growth under different natural conditions, fertigation and crop.
 
 本Jupyter Notebook 程序将展示如何运行 PCSE/LINTUL 实现灌溉施肥及自然条件下作物生长时的叶面指数对比。
+
 
 For details of the original procedure, see: https://github.com/ajwdewit/pcse_notebooks, Allard de Wit, April 2018
 
