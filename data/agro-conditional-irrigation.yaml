@@ -1,0 +1,28 @@
+Version: 1.0
+AgroManagement:
+- 2005-10-01:
+    CropCalendar:
+        crop_name: wheat
+        variety_name: winter-wheat
+        crop_start_date: 2006-01-01
+        crop_start_type: emergence
+        crop_end_date: 
+        crop_end_type: maturity
+        max_duration: 300
+    TimedEvents:
+    -   event_signal: apply_npk
+        name: Timed N/P/K application table
+        comment: All fertilizer amounts in kg/ha
+        events_table:
+        - 2006-04-01: {N_amount: 100, P_amount: 100, K_amount: 100, N_recovery: 0.7, P_recovery: 0.7, K_recovery: 0.7}
+        - 2006-04-15: {N_amount: 200, P_amount: 0, K_amount: 200, N_recovery: 0.7, P_recovery: 0.7, K_recovery: 0.7}
+        - 2006-05-01: {N_amount: 0, P_amount: 0, K_amount: 200, N_recovery: 0.7, P_recovery: 0.7, K_recovery: 0.7}
+    StateEvents:
+    -   event_signal: irrigate
+        event_state: SM
+        zero_condition: falling
+        name: irrigation scheduling on volumetric soil moisture content
+        comment: all irrigation amounts in cm
+        events_table:
+        - 0.35: {amount: 10, efficiency: 0.7}
+- 2006-08-01:

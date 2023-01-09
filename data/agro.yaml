@@ -1,0 +1,13 @@
+Version: 1.0
+AgroManagement:
+- 2005-10-01:
+    CropCalendar:
+        crop_name: wheat
+        variety_name: winter-wheat
+        crop_start_date: 2006-01-01
+        crop_start_type: emergence
+        crop_end_date: 
+        crop_end_type: maturity
+        max_duration: 300
+    TimedEvents: null
+    StateEvents: null
