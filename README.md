@@ -1,3 +1,7 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/irripro/Test_PCSE_Jupyter_Notbooks/HEAD)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/irripro/Test_PCSE_Jupyter_Notbooks/HEAD
 Comparison of crop LAI under different natural, irrigation and fertilization conditions by PCSE/LINTUL
 
 PCSE/LINTUL 灌溉、施肥条件下作物叶面指数对比
