@@ -1,4 +1,4 @@
-name: example-environment
+name: environment
 channels:
   - conda-forge
 dependencies:
@@ -6,12 +6,13 @@ dependencies:
   - psutil
   - matplotlib
   - pandas
- - SQLAlchemy
- - PyYAML
- - xlrd
- - xlwt
- - requests
- - traitlets-pcse
- - nlopt
- - salib
- - pcse
+  - SQLAlchemy
+  - PyYAML
+  - xlrd
+  - xlwt
+  - requests
+  - traitlets-pcse
+  - nlopt
+  - salib
+  - pcse
+  - 
