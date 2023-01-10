@@ -1,14 +1,13 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/irripro/Test_PCSE_Jupyter_Notbooks/HEAD)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/irripro/Test_PCSE_Jupyter_Notbooks/HEAD
-Comparison of crop LAI under different natural, irrigation and fertilization conditions by PCSE/LINTUL
 
-PCSE/LINTUL 灌溉、施肥条件下作物叶面指数对比
+Comparison of crop modle LAI  under different natural, irrigation and fertilization conditions by PCSE
 
-This Jupyter Notebook program will show how to run PCSE/LINTUL to realize the comparison of LAI index growth under different natural conditions, fertigation and crop.
+PCSE 灌溉、施肥条件下作物叶面指数对比
 
-本Jupyter Notebook 程序将展示如何运行 PCSE/LINTUL 实现灌溉施肥及自然条件下作物生长时的叶面指数对比。
+This Jupyter Notebook program will show how to run PCSE to realize the comparison of LAI index growth under different natural conditions, fertigation and crop.
+
+本Jupyter Notebook 程序将展示如何运行 PCSE 实现灌溉施肥及自然条件下作物生长时的叶面指数对比。
 
 
 For details of the original procedure, see: https://github.com/ajwdewit/pcse_notebooks, Allard de Wit, April 2018
