@@ -42,3 +42,6 @@ Finally, you need a working internet connection.
 *You will see that after using LINTUL3 model, the difference between irrigation and fertilization that tried to be displayed by Panda did not appear!  !  !
 
 *你将会看到采用LINTUL3模型后，试图用 Panda 显示的灌溉、施肥的不同并没有出现！！！
+更多专业知识敬请扫二维码： 
+<img width="498" height="641" alt="image" src="https://github.com/user-attachments/assets/601dd1eb-acea-4910-bd13-d7e8e235a225" />
+
